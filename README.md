@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Java, SQL and Git**
 - 💞️ I’m not looking to collaborate on any project
 - 📫 How to reach me _+34 654456321_
-- 😄 Pronouns: Hei
 - ⚡ Fun fact: I don't know how to use Github
 > [!IMPORTANT]
 > Have a good day!
